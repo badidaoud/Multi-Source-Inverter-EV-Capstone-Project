@@ -17,6 +17,7 @@ A senior capstone project (Ontario Tech University, Electrical Engineering, 2025
 - [Proposed Design](#proposed-design)
 - [Hardware and Schematics](#hardware-and-schematics)
 - [Final Product](#final-product)
+- [Video Demos](#video-demos)
 - [Testing and Results](#testing-and-results)
 - [Challenges and Root Cause Analysis](#challenges-and-root-cause-analysis)
 - [My Contributions](#my-contributions)
@@ -130,6 +131,19 @@ Additional schematic sections (connectors, DC-DC converter details) are also cap
 </tr>
 </table>
 
+## Video Demos
+
+<table>
+<tr>
+<td><a href="https://youtu.be/wHL-Usw2PE0"><img src="https://img.youtube.com/vi/wHL-Usw2PE0/hqdefault.jpg" alt="Capstone working demo video" width="480"/></a></td>
+<td><a href="https://www.youtube.com/watch?v=NoywARZFs50"><img src="https://img.youtube.com/vi/NoywARZFs50/hqdefault.jpg" alt="KiCad prototype walkthrough video" width="480"/></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://youtu.be/wHL-Usw2PE0">Team capstone working demo</a></td>
+<td align="center"><a href="https://www.youtube.com/watch?v=NoywARZFs50">My individual KiCad prototype walkthrough</a></td>
+</tr>
+</table>
+
 ## Testing and Results
 
 Testing moved from individual component validation up to full integration:
@@ -148,7 +162,6 @@ Being upfront about the outcome is part of the point of documenting this project
 | Power and frequency | Met |
 | Simulation validation | Met |
 | Source switching | Not met |
-| Budget ($800 target) | Not met ($856.77 actual, driven by component and design rework) |
 | Performance metrics | Not met |
 
 ## Challenges and Root Cause Analysis
