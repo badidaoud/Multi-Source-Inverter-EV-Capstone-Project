@@ -164,6 +164,8 @@ Being upfront about the outcome is part of the point of documenting this project
 | Source switching | Not met |
 | Performance metrics | Not met |
 
+**Note on source switching:** my individual KiCad prototype did successfully implement source switching. The "Not met" result above traces back to a routing error in the original PSIM schematic, which carried through to the team's final Altium design: the MOSFETs were not placed correctly relative to the routing, which prevented the final board from switching between sources.
+
 ## Challenges and Root Cause Analysis
 
 ![Root cause analysis](assets/root-cause-analysis.png)
