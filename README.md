@@ -5,7 +5,7 @@ A senior capstone project (Ontario Tech University, Electrical Engineering, 2025
 **Team:** Emmanuel Ita, Jack Flann, Dorsheed Abdalla, Badi Daoud
 **Project Coordinator:** Dr. Mohamed Z. Youssef, Ontario Tech University
 
-> This repository is my personal, individually maintained record of a four-person team capstone. It documents the project in full and credits every teammate's contribution; it is not a claim of solo authorship. The team's original working repository, maintained by a teammate, is linked in [Attribution](#attribution--original-repository) below.
+> This repository is my personal, individually maintained record of a four-person team capstone. It documents the project in full and credits every teammate's contribution; it is not a claim of solo authorship. The team's original working repository, maintained by a teammate, is linked in [Attribution](#attribution-and-original-repository) below.
 
 ## Table of Contents
 
