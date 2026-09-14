@@ -13,7 +13,6 @@ A senior capstone project (Ontario Tech University, Electrical Engineering, 2025
 - [Existing Solutions](#existing-solutions)
 - [Project Objectives](#project-objectives)
 - [Design Process](#design-process)
-- [System Architecture](#system-architecture)
 - [Proposed Design](#proposed-design)
 - [Hardware and Schematics](#hardware-and-schematics)
 - [Final Product](#final-product)
